@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MOVE//MODE — ready for GitHub Pages
 
 ## Upload (no editing needed)
@@ -22,3 +23,7 @@ All links are relative, including the Chrome extension download; no username, UR
 
 ## Local preview
 Run `python3 -m http.server 8000` inside this folder, then open `http://localhost:8000`.
+=======
+# Move-Mode
+Move-Mode — a GitHub Pages project
+>>>>>>> 64daa2331a690f696aeb73cf23ca74d2f44d5f8e
