@@ -1,0 +1,26 @@
+{
+  "id": "./",
+  "name": "MOVE//MODE — תנועה בין משימות",
+  "short_name": "MOVE//MODE",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111b2d",
+  "theme_color": "#111b2d",
+  "lang": "he",
+  "dir": "rtl",
+  "icons": [
+    {
+      "src": "icons/icon192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
